@@ -2,14 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f0278ee-84ab-4b76-9bca-2c8a5d110954" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/com/day01/demo02_annotation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/day01/demo03_variable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/day01/demo04_print_idcard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/day01/demo05_if.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/day01/demo06_print_equal_mark.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/day05/demo01_break_and_continue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/day05/demo02_while_and_break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/day05/demo03_str_.slices.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/day05/demo04_str_index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/day05/demo05_str_link.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/day05/demo06_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/day05/demo07_name_management.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/day09/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/demo01/hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/day01/demo01_hello.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/day01/demo01_hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/day03/demo01_hello.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/day01/demo02_annotation.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/day03/demo02_annotation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/day01/demo03_variable.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/day03/demo03_variable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/day01/demo04_print_idcard.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/day03/demo04_print_idcard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/day01/demo05_if.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/day03/demo05_if.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/day01/demo06_print_equal_mark.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/day03/demo06_print_equal_mark.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/day02/demo01_compare.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/day04/demo01_compare.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/day02/demo02_logical_operator.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/day04/demo02_logical_operator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/day02/demo03_if_other.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/day04/demo03_if_other.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/day02/demo04_while.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/day04/demo04_while.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/day02/demo05_if_nesting.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/day04/demo05_if_nesting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/day02/demo06_while_nesting.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/day04/demo06_while_nesting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/day02/demo07_finger_guessing_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/day04/demo07_finger_guessing_game.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,70 +32,29 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/python_base$hello.coverage" NAME="hello Coverage Results" MODIFIED="1544315616212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/demo01" />
+    <SUITE FILE_PATH="coverage/python_base$demo01_compare.coverage" NAME="demo01_compare Coverage Results" MODIFIED="1544319049587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/demo02" />
+    <SUITE FILE_PATH="coverage/python_base$demo03_if_other.coverage" NAME="demo03_if_other Coverage Results" MODIFIED="1544331460342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/demo02" />
+    <SUITE FILE_PATH="coverage/python_base$demo07_name_management.coverage" NAME="demo07_name_management Coverage Results" MODIFIED="1544856530414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day05" />
     <SUITE FILE_PATH="coverage/python_base$demo06_print_equal_mark.coverage" NAME="demo06_print_equal_mark Coverage Results" MODIFIED="1544317640310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day01" />
+    <SUITE FILE_PATH="coverage/python_base$demo03_str_index.coverage" NAME="demo03_str_index Coverage Results" MODIFIED="1544843780963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day05" />
+    <SUITE FILE_PATH="coverage/python_base$demo06_while_nesting.coverage" NAME="demo06_while_nesting Coverage Results" MODIFIED="1544356474493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/demo02" />
+    <SUITE FILE_PATH="coverage/python_base$demo05_if_nesting.coverage" NAME="demo05_if_nesting Coverage Results" MODIFIED="1544333603231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/demo02" />
+    <SUITE FILE_PATH="coverage/python_base$demo04_while.coverage" NAME="demo04_while Coverage Results" MODIFIED="1544331980270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/demo02" />
+    <SUITE FILE_PATH="coverage/python_base$demo05_if.coverage" NAME="demo05_if Coverage Results" MODIFIED="1544316855203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day01" />
+    <SUITE FILE_PATH="coverage/python_base$demo02WhileAndbreak.coverage" NAME="demo02WhileAndbreak Coverage Results" MODIFIED="1544841634517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day05" />
+    <SUITE FILE_PATH="coverage/python_base$demo01BreakAndContinue.coverage" NAME="demo01BreakAndContinue Coverage Results" MODIFIED="1544841083642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day05" />
+    <SUITE FILE_PATH="coverage/python_base$demo03_str.coverage" NAME="demo03_str Coverage Results" MODIFIED="1544842083413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day05" />
+    <SUITE FILE_PATH="coverage/python_base$demo02_logical_operator.coverage" NAME="demo02_logical_operator Coverage Results" MODIFIED="1544328641488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/demo02" />
+    <SUITE FILE_PATH="coverage/python_base$hello.coverage" NAME="hello Coverage Results" MODIFIED="1544315616212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/demo01" />
+    <SUITE FILE_PATH="coverage/python_base$demo03_str__slices.coverage" NAME="demo03_str_.slices Coverage Results" MODIFIED="1544845467655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day05" />
     <SUITE FILE_PATH="coverage/python_base$demo04_print_idcard.coverage" NAME="demo04_print_idcard Coverage Results" MODIFIED="1544316569483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day01" />
     <SUITE FILE_PATH="coverage/python_base$annotation.coverage" NAME="annotation Coverage Results" MODIFIED="1544315928695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day01" />
-    <SUITE FILE_PATH="coverage/python_base$demo05_if.coverage" NAME="demo05_if Coverage Results" MODIFIED="1544316855203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day01" />
+    <SUITE FILE_PATH="coverage/python_base$demo07_finger_guessing_game.coverage" NAME="demo07_finger_guessing_game Coverage Results" MODIFIED="1544358379840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day02" />
+    <SUITE FILE_PATH="coverage/python_base$demo06_list.coverage" NAME="demo06_list Coverage Results" MODIFIED="1544854418926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day05" />
     <SUITE FILE_PATH="coverage/python_base$demo03_variable.coverage" NAME="demo03_variable Coverage Results" MODIFIED="1544316300708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day01" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/day01/demo01_hello.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/day01/demo02_annotation.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="3" lean-forward="true" selection-end-line="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/day01/demo03_variable.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" lean-forward="true" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/day01/demo06_print_equal_mark.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/com/day01/demo04_print_idcard.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="12" lean-forward="true" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/day01/demo05_if.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -92,6 +65,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="test" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -103,6 +81,24 @@
         <option value="$PROJECT_DIR$/com/day01/demo04_print_idcard.py" />
         <option value="$PROJECT_DIR$/com/day01/demo03_variable.py" />
         <option value="$PROJECT_DIR$/com/day01/demo06_print_equal_mark.py" />
+        <option value="$PROJECT_DIR$/com/demo02/demo01_compare.py" />
+        <option value="$PROJECT_DIR$/com/demo02/demo02_logical_operator.py" />
+        <option value="$PROJECT_DIR$/com/demo02/demo03_if_other.py" />
+        <option value="$PROJECT_DIR$/com/demo02/demo04_while.py" />
+        <option value="$PROJECT_DIR$/com/demo02/demo05_if_nesting.py" />
+        <option value="$PROJECT_DIR$/com/demo02/demo06_while_nesting.py" />
+        <option value="$PROJECT_DIR$/com/demo02/demo07_finger_guessing_game.py" />
+        <option value="$PROJECT_DIR$/com/day02/demo07_finger_guessing_game.py" />
+        <option value="$PROJECT_DIR$/com/day02/excel.py" />
+        <option value="$PROJECT_DIR$/com/day05/demo01BreakAndContinue.py" />
+        <option value="$PROJECT_DIR$/com/day05/demo02WhileAndbreak.py" />
+        <option value="$PROJECT_DIR$/com/day05/demo03Str.py" />
+        <option value="$PROJECT_DIR$/com/day05/demo03_str.py" />
+        <option value="$PROJECT_DIR$/com/day05/demo03_str_index.py" />
+        <option value="$PROJECT_DIR$/com/day05/demo03_str_.slicespy.py" />
+        <option value="$PROJECT_DIR$/com/day05/demo03_str_.slices.py" />
+        <option value="$PROJECT_DIR$/com/day05/demo06_list.py" />
+        <option value="$PROJECT_DIR$/com/day05/demo07_name_management.py" />
       </list>
     </option>
   </component>
@@ -117,7 +113,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -134,23 +129,25 @@
               <item name="python-base" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-base" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="day01" type="462c0819:PsiDirectoryNode" />
+              <item name="day05" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../api-test-python" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\File\workspace\python\python-base\com\day05" />
       <recent name="C:\File\workspace\python\python-base\com\demo01" />
     </key>
   </component>
@@ -166,8 +163,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.demo06_print_equal_mark">
-    <configuration name="annotation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.demo07_name_management">
+    <configuration name="demo03_str" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-base" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -175,12 +172,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/day01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/day05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\File\workspace\python\python-base\com\day01\demo02_annotation.py" />
+      <option name="SCRIPT_NAME" value="C:\File\workspace\python\python-base\com\day05\demo05_str_link.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,7 +186,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo03_variable" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demo03_str_.slices" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-base" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -197,12 +194,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/day01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/day05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/day01/demo03_variable.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/day05/demo03_str_.slices.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -211,7 +208,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo04_print_idcard" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demo03_str_index" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-base" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -219,12 +216,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/day01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/day05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/day01/demo04_print_idcard.py" />
+      <option name="SCRIPT_NAME" value="C:\File\workspace\python\python-base\com\day05\demo04_str_index.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -233,7 +230,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo05_if" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demo06_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-base" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -241,12 +238,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/day01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/day05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/day01/demo05_if.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/day05/demo06_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -255,7 +252,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo06_print_equal_mark" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demo07_name_management" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-base" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -263,12 +260,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/day01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/day05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/day01/demo06_print_equal_mark.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/day05/demo07_name_management.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -279,11 +276,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.demo06_print_equal_mark" />
-        <item itemvalue="Python.demo05_if" />
-        <item itemvalue="Python.demo04_print_idcard" />
-        <item itemvalue="Python.demo03_variable" />
-        <item itemvalue="Python.annotation" />
+        <item itemvalue="Python.demo07_name_management" />
+        <item itemvalue="Python.demo06_list" />
+        <item itemvalue="Python.demo03_str_.slices" />
+        <item itemvalue="Python.demo03_str_index" />
+        <item itemvalue="Python.demo03_str" />
       </list>
     </recent_temporary>
   </component>
@@ -298,24 +295,43 @@
       <option name="presentableId" value="Default" />
       <updated>1544279621202</updated>
       <workItem from="1544279623683" duration="1106000" />
-      <workItem from="1544315609603" duration="2425000" />
+      <workItem from="1544315609603" duration="17106000" />
+      <workItem from="1544407380799" duration="718000" />
+      <workItem from="1544411036019" duration="5583000" />
+      <workItem from="1544479980480" duration="619000" />
+      <workItem from="1544684185688" duration="968000" />
+      <workItem from="1544840556001" duration="10492000" />
     </task>
+    <task id="LOCAL-00001" summary="python 第一天学习">
+      <created>1544318256314</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1544318256314</updated>
+    </task>
+    <task id="LOCAL-00002" summary="python 第2天学习">
+      <created>1544363143229</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1544363143229</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3531000" />
+    <option name="totallyTimeSpent" value="36592000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22069523" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28860146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.40319717" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40319717" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -335,46 +351,157 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="python 第一天学习" />
+    <MESSAGE value="python 第2天学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="python 第2天学习" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/com/day01/demo05_if.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/day01/demo06_print_equal_mark.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/day01/demo01_hello.py">
+    <entry file="file://$PROJECT_DIR$/com/day03/demo01_hello.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/day01/demo02_annotation.py">
+    <entry file="file://$PROJECT_DIR$/com/day03/demo02_annotation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="3" lean-forward="true" selection-end-line="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/day01/demo03_variable.py">
+    <entry file="file://$PROJECT_DIR$/com/day03/demo05_if.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="17" lean-forward="true" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/day03/demo06_print_equal_mark.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="3" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/day04/demo04_while.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/day04/demo03_if_other.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/day04/demo06_while_nesting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/day04/demo05_if_nesting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/day04/demo01_compare.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/day04/demo02_logical_operator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/day03/demo03_variable.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" lean-forward="true" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/day01/demo04_print_idcard.py">
+    <entry file="file://$PROJECT_DIR$/com/day03/demo04_print_idcard.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="12" lean-forward="true" selection-end-line="14" />
+        <state relative-caret-position="114">
+          <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/day02/excel.py" />
+    <entry file="file://$PROJECT_DIR$/com/day04/demo07_finger_guessing_game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/day05/demo01_break_and_continue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/day05/demo02_while_and_break.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="13" column="25" lean-forward="true" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/day05/demo05_str_link.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/day05/demo04_str_index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/day05/demo03_str_.slices.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="43" column="9" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/day05/demo06_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1500978388/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="3668" column="8" selection-start-line="3668" selection-start-column="8" selection-end-line="3668" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/day05/demo07_name_management.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="42" column="13" lean-forward="true" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
         </state>
       </provider>
     </entry>
