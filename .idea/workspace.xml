@@ -2,28 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f0278ee-84ab-4b76-9bca-2c8a5d110954" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/com/day05/demo01_break_and_continue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/day05/demo02_while_and_break.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/day05/demo03_str_.slices.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/day05/demo04_str_index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/day05/demo05_str_link.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/day05/demo06_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/day05/demo07_name_management.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/day09/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/day06/demo04_tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/day06/demo05_dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/day06/demo06_packet_disassembly.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/day06/demo07_functioin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/day01/demo01_hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/day03/demo01_hello.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/day01/demo02_annotation.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/day03/demo02_annotation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/day01/demo03_variable.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/day03/demo03_variable.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/day01/demo04_print_idcard.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/day03/demo04_print_idcard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/day01/demo05_if.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/day03/demo05_if.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/day01/demo06_print_equal_mark.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/day03/demo06_print_equal_mark.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/day02/demo01_compare.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/day04/demo01_compare.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/day02/demo02_logical_operator.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/day04/demo02_logical_operator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/day02/demo03_if_other.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/day04/demo03_if_other.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/day02/demo04_while.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/day04/demo04_while.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/day02/demo05_if_nesting.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/day04/demo05_if_nesting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/day02/demo06_while_nesting.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/day04/demo06_while_nesting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/day02/demo07_finger_guessing_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/day04/demo07_finger_guessing_game.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,29 +15,48 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/python_base$demo01_compare.coverage" NAME="demo01_compare Coverage Results" MODIFIED="1544319049587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/demo02" />
     <SUITE FILE_PATH="coverage/python_base$demo03_if_other.coverage" NAME="demo03_if_other Coverage Results" MODIFIED="1544331460342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/demo02" />
-    <SUITE FILE_PATH="coverage/python_base$demo07_name_management.coverage" NAME="demo07_name_management Coverage Results" MODIFIED="1544856530414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day05" />
     <SUITE FILE_PATH="coverage/python_base$demo06_print_equal_mark.coverage" NAME="demo06_print_equal_mark Coverage Results" MODIFIED="1544317640310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day01" />
-    <SUITE FILE_PATH="coverage/python_base$demo03_str_index.coverage" NAME="demo03_str_index Coverage Results" MODIFIED="1544843780963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day05" />
-    <SUITE FILE_PATH="coverage/python_base$demo06_while_nesting.coverage" NAME="demo06_while_nesting Coverage Results" MODIFIED="1544356474493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/demo02" />
     <SUITE FILE_PATH="coverage/python_base$demo05_if_nesting.coverage" NAME="demo05_if_nesting Coverage Results" MODIFIED="1544333603231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/demo02" />
-    <SUITE FILE_PATH="coverage/python_base$demo04_while.coverage" NAME="demo04_while Coverage Results" MODIFIED="1544331980270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/demo02" />
     <SUITE FILE_PATH="coverage/python_base$demo05_if.coverage" NAME="demo05_if Coverage Results" MODIFIED="1544316855203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day01" />
-    <SUITE FILE_PATH="coverage/python_base$demo02WhileAndbreak.coverage" NAME="demo02WhileAndbreak Coverage Results" MODIFIED="1544841634517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day05" />
+    <SUITE FILE_PATH="coverage/python_base$demo07_functioin.coverage" NAME="demo07_functioin Coverage Results" MODIFIED="1544873086068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day06" />
     <SUITE FILE_PATH="coverage/python_base$demo01BreakAndContinue.coverage" NAME="demo01BreakAndContinue Coverage Results" MODIFIED="1544841083642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day05" />
     <SUITE FILE_PATH="coverage/python_base$demo03_str.coverage" NAME="demo03_str Coverage Results" MODIFIED="1544842083413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day05" />
-    <SUITE FILE_PATH="coverage/python_base$demo02_logical_operator.coverage" NAME="demo02_logical_operator Coverage Results" MODIFIED="1544328641488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/demo02" />
+    <SUITE FILE_PATH="coverage/python_base$demo05_dictionary.coverage" NAME="demo05_dictionary Coverage Results" MODIFIED="1544867479438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day06" />
     <SUITE FILE_PATH="coverage/python_base$hello.coverage" NAME="hello Coverage Results" MODIFIED="1544315616212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/demo01" />
-    <SUITE FILE_PATH="coverage/python_base$demo03_str__slices.coverage" NAME="demo03_str_.slices Coverage Results" MODIFIED="1544845467655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day05" />
     <SUITE FILE_PATH="coverage/python_base$demo04_print_idcard.coverage" NAME="demo04_print_idcard Coverage Results" MODIFIED="1544316569483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day01" />
-    <SUITE FILE_PATH="coverage/python_base$annotation.coverage" NAME="annotation Coverage Results" MODIFIED="1544315928695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day01" />
     <SUITE FILE_PATH="coverage/python_base$demo07_finger_guessing_game.coverage" NAME="demo07_finger_guessing_game Coverage Results" MODIFIED="1544358379840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day02" />
-    <SUITE FILE_PATH="coverage/python_base$demo06_list.coverage" NAME="demo06_list Coverage Results" MODIFIED="1544854418926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day05" />
+    <SUITE FILE_PATH="coverage/python_base$demo07_dictionaries.coverage" NAME="demo07_dictionaries Coverage Results" MODIFIED="1544859575452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day05" />
+    <SUITE FILE_PATH="coverage/python_base$demo01_while_for_loop_list.coverage" NAME="demo01_while_for_loop_list Coverage Results" MODIFIED="1544862662321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day06" />
     <SUITE FILE_PATH="coverage/python_base$demo03_variable.coverage" NAME="demo03_variable Coverage Results" MODIFIED="1544316300708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day01" />
+    <SUITE FILE_PATH="coverage/python_base$demo01_compare.coverage" NAME="demo01_compare Coverage Results" MODIFIED="1544319049587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/demo02" />
+    <SUITE FILE_PATH="coverage/python_base$demo07_name_management.coverage" NAME="demo07_name_management Coverage Results" MODIFIED="1544856530414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day05" />
+    <SUITE FILE_PATH="coverage/python_base$demo03_str_index.coverage" NAME="demo03_str_index Coverage Results" MODIFIED="1544843780963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day05" />
+    <SUITE FILE_PATH="coverage/python_base$demo06_while_nesting.coverage" NAME="demo06_while_nesting Coverage Results" MODIFIED="1544356474493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/demo02" />
+    <SUITE FILE_PATH="coverage/python_base$demo03_append_extend.coverage" NAME="demo03_append_extend Coverage Results" MODIFIED="1544864636670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day06" />
+    <SUITE FILE_PATH="coverage/python_base$demo09_card_case_management.coverage" NAME="demo09_card_case_management Coverage Results" MODIFIED="1544861833624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day05" />
+    <SUITE FILE_PATH="coverage/python_base$demo02_for_else.coverage" NAME="demo02_for_else Coverage Results" MODIFIED="1544863923710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day06" />
+    <SUITE FILE_PATH="coverage/python_base$demo04_while.coverage" NAME="demo04_while Coverage Results" MODIFIED="1544331980270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/demo02" />
+    <SUITE FILE_PATH="coverage/python_base$demo02WhileAndbreak.coverage" NAME="demo02WhileAndbreak Coverage Results" MODIFIED="1544841634517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day05" />
+    <SUITE FILE_PATH="coverage/python_base$demo02_logical_operator.coverage" NAME="demo02_logical_operator Coverage Results" MODIFIED="1544328641488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/demo02" />
+    <SUITE FILE_PATH="coverage/python_base$demo03_str__slices.coverage" NAME="demo03_str_.slices Coverage Results" MODIFIED="1544845467655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day05" />
+    <SUITE FILE_PATH="coverage/python_base$demo06_packet_disassembly.coverage" NAME="demo06_packet_disassembly Coverage Results" MODIFIED="1544866849625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day06" />
+    <SUITE FILE_PATH="coverage/python_base$demo04_tuple.coverage" NAME="demo04_tuple Coverage Results" MODIFIED="1544865699081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day06" />
+    <SUITE FILE_PATH="coverage/python_base$annotation.coverage" NAME="annotation Coverage Results" MODIFIED="1544315928695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day01" />
+    <SUITE FILE_PATH="coverage/python_base$demo06_list.coverage" NAME="demo06_list Coverage Results" MODIFIED="1544854418926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day05" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/com/day06/demo07_functioin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="94">
+              <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -99,6 +101,16 @@
         <option value="$PROJECT_DIR$/com/day05/demo03_str_.slices.py" />
         <option value="$PROJECT_DIR$/com/day05/demo06_list.py" />
         <option value="$PROJECT_DIR$/com/day05/demo07_name_management.py" />
+        <option value="$PROJECT_DIR$/com/day05/demo07_dictionaries.py" />
+        <option value="$PROJECT_DIR$/com/day05/demo08_name_management.py" />
+        <option value="$PROJECT_DIR$/com/day05/demo09_card_case_management.py" />
+        <option value="$PROJECT_DIR$/com/day06/demo01_while_for_loop_list.py" />
+        <option value="$PROJECT_DIR$/com/day06/demo02_for_else.py" />
+        <option value="$PROJECT_DIR$/com/day06/demo03_append_extend.py" />
+        <option value="$PROJECT_DIR$/com/day06/demo04_tuple.py" />
+        <option value="$PROJECT_DIR$/com/day06/demo06_packet_disassembly.py" />
+        <option value="$PROJECT_DIR$/com/day06/demo05_dictionary.py" />
+        <option value="$PROJECT_DIR$/com/day06/demo07_functioin.py" />
       </list>
     </option>
   </component>
@@ -129,7 +141,7 @@
               <item name="python-base" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-base" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="day05" type="462c0819:PsiDirectoryNode" />
+              <item name="day06" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -163,8 +175,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.demo07_name_management">
-    <configuration name="demo03_str" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.demo07_functioin">
+    <configuration name="demo03_append_extend" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-base" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -172,12 +184,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/day05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/day06" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\File\workspace\python\python-base\com\day05\demo05_str_link.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/day06/demo03_append_extend.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,7 +198,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo03_str_.slices" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demo04_tuple" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-base" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -194,12 +206,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/day05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/day06" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/day05/demo03_str_.slices.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/day06/demo04_tuple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,7 +220,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo03_str_index" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demo05_dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-base" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -216,12 +228,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/day05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/day06" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\File\workspace\python\python-base\com\day05\demo04_str_index.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/day06/demo05_dictionary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -230,7 +242,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo06_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demo06_packet_disassembly" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-base" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -238,12 +250,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/day05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/day06" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/day05/demo06_list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/day06/demo06_packet_disassembly.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -252,7 +264,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo07_name_management" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demo07_functioin" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-base" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -260,12 +272,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/day05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/day06" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/day05/demo07_name_management.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/day06/demo07_functioin.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -276,11 +288,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.demo07_name_management" />
-        <item itemvalue="Python.demo06_list" />
-        <item itemvalue="Python.demo03_str_.slices" />
-        <item itemvalue="Python.demo03_str_index" />
-        <item itemvalue="Python.demo03_str" />
+        <item itemvalue="Python.demo07_functioin" />
+        <item itemvalue="Python.demo05_dictionary" />
+        <item itemvalue="Python.demo06_packet_disassembly" />
+        <item itemvalue="Python.demo04_tuple" />
+        <item itemvalue="Python.demo03_append_extend" />
       </list>
     </recent_temporary>
   </component>
@@ -300,7 +312,8 @@
       <workItem from="1544411036019" duration="5583000" />
       <workItem from="1544479980480" duration="619000" />
       <workItem from="1544684185688" duration="968000" />
-      <workItem from="1544840556001" duration="10492000" />
+      <workItem from="1544840556001" duration="20719000" />
+      <workItem from="1544872120097" duration="974000" />
     </task>
     <task id="LOCAL-00001" summary="python 第一天学习">
       <created>1544318256314</created>
@@ -316,21 +329,43 @@
       <option name="project" value="LOCAL" />
       <updated>1544363143229</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="python 第3天学习">
+      <created>1544857454676</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1544857454676</updated>
+    </task>
+    <task id="LOCAL-00004" summary="python 第5天学习">
+      <created>1544862458191</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1544862458191</updated>
+    </task>
+    <task id="LOCAL-00005" summary="python 之 列表 字典">
+      <created>1544864939565</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1544864939565</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36592000" />
+    <option name="totallyTimeSpent" value="47793000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28860146" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19805983" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40319717" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20781527" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -354,7 +389,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="python 第一天学习" />
     <MESSAGE value="python 第2天学习" />
-    <option name="LAST_COMMIT_MESSAGE" value="python 第2天学习" />
+    <MESSAGE value="python 第3天学习" />
+    <MESSAGE value="python 第5天学习" />
+    <MESSAGE value="python 之 列表 字典" />
+    <option name="LAST_COMMIT_MESSAGE" value="python 之 列表 字典" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/com/day03/demo01_hello.py">
@@ -498,10 +536,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/day05/demo07_name_management.py">
+    <entry file="file://$PROJECT_DIR$/com/day05/demo07_dictionaries.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="42" column="13" lean-forward="true" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        <state relative-caret-position="171">
+          <caret line="9" column="4" lean-forward="true" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/day05/demo08_name_management.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/day05/demo09_card_case_management.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="15" lean-forward="true" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/day06/demo01_while_for_loop_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/day06/demo02_for_else.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="6" lean-forward="true" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/day06/demo03_append_extend.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/day06/demo04_tuple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="14" lean-forward="true" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/day06/demo06_packet_disassembly.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/day06/demo05_dictionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="11" column="44" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/day06/demo07_functioin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
         </state>
       </provider>
     </entry>
