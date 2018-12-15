@@ -1,4 +1,4 @@
-# 名字管理系统
+# 列表的使用--名字管理系统
 print("=" * 60)
 print("名片管理系统 V0.01")
 print("1 添加名字")
@@ -22,7 +22,6 @@ while True:
             print(names)
         else:
             print("列表中没有%s姓名" % name)
-        pass
     elif num == 3:
         name = input("请输入要修改的名字")
         index = names.index(name)
