@@ -2,25 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f0278ee-84ab-4b76-9bca-2c8a5d110954" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/com/day09/Demo01Car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/day09/Demo02ManyObject.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/day09/Demo03Init.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/day09/Demo04Str.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/day09/Demo05Case.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/day09/Demo06Case.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/day10/Demo01HiddenProperty.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/day10/Demo02HiddenPropertyPrivateProperty.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/day10/Demo03PrivateMethod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/day10/Demo04__del__method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/day10/Demo05_inherit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/day10/Demo07_overwrite.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/day10/Demo08CallOverwriteMethod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/day10/Demo09PrivatePropertyInInherite.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/day10/Demo10ManyInherit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/day10/Demo11ManyInheritNotice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/day10/Demo12Polymorphous.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/day10/Demo13ClassPropertyObjectProperty.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/day10/Demo14ClassMethodObjectMethod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/day11/a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/day11/factoryMethod/Demo01AbstractFactory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/day11/factoryMethod/Demo01SimpleFactory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/day11/factoryMethod/entity/Car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/day11/factoryMethod/entity/Ix35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/day11/factoryMethod/entity/Mingtu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/day11/factoryMethod/entity/Mini.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/day11/factoryMethod/entity/Suonata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/day11/factoryMethod/entity/SuvX6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/day11/factoryMethod/factory/BMWCarFactory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/day11/factoryMethod/factory/XianDaiFactory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/day11/factoryMethod/store/BMWCarStore.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/day11/factoryMethod/store/Store.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/day11/factoryMethod/store/XianDaiCarStore.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,10 +39,12 @@
     <SUITE FILE_PATH="coverage/python_base$demo05_dictionary.coverage" NAME="demo05_dictionary Coverage Results" MODIFIED="1544867479438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day06" />
     <SUITE FILE_PATH="coverage/python_base$demo02_global_variable.coverage" NAME="demo02_global_variable Coverage Results" MODIFIED="1545214786995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day07" />
     <SUITE FILE_PATH="coverage/python_base$demo11_batch_flile_rename.coverage" NAME="demo11_batch_flile_rename Coverage Results" MODIFIED="1545486461315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day08" />
+    <SUITE FILE_PATH="coverage/python_base$Store.coverage" NAME="Store Coverage Results" MODIFIED="1546318731971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day11/factoryMethod/store" />
     <SUITE FILE_PATH="coverage/python_base$demo07_global_dictionary_list.coverage" NAME="demo07_global_dictionary_list Coverage Results" MODIFIED="1545442563859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day07" />
     <SUITE FILE_PATH="coverage/python_base$Demo05Case.coverage" NAME="Demo05Case Coverage Results" MODIFIED="1546138372988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day09" />
     <SUITE FILE_PATH="coverage/python_base$Demo07_overwrite.coverage" NAME="Demo07_overwrite Coverage Results" MODIFIED="1546141763992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day10" />
     <SUITE FILE_PATH="coverage/python_base$demo01_anonymous_function.coverage" NAME="demo01_anonymous_function Coverage Results" MODIFIED="1545446817288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day08" />
+    <SUITE FILE_PATH="coverage/python_base$Demo01Base.coverage" NAME="Demo01Base Coverage Results" MODIFIED="1546316723651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day11/factoryMethod" />
     <SUITE FILE_PATH="coverage/python_base$demo05_str.coverage" NAME="demo05_str Coverage Results" MODIFIED="1545450157753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day08" />
     <SUITE FILE_PATH="coverage/python_base$Demo09PrivatePropertyInInherite.coverage" NAME="Demo09PrivatePropertyInInherite Coverage Results" MODIFIED="1546141225813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day10" />
     <SUITE FILE_PATH="coverage/python_base$Demo13ClassPropertyObjectProperty.coverage" NAME="Demo13ClassPropertyObjectProperty Coverage Results" MODIFIED="1546143679544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day10" />
@@ -75,6 +72,7 @@
     <SUITE FILE_PATH="coverage/python_base$Demo11ManyInheritNotice.coverage" NAME="Demo11ManyInheritNotice Coverage Results" MODIFIED="1546141698028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day10" />
     <SUITE FILE_PATH="coverage/python_base$demo05_if.coverage" NAME="demo05_if Coverage Results" MODIFIED="1544316855203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day01" />
     <SUITE FILE_PATH="coverage/python_base$demo01BreakAndContinue.coverage" NAME="demo01BreakAndContinue Coverage Results" MODIFIED="1544841083642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day05" />
+    <SUITE FILE_PATH="coverage/python_base$Demo01AbstractFactory.coverage" NAME="Demo01AbstractFactory Coverage Results" MODIFIED="1546319141458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day11/factoryMethod" />
     <SUITE FILE_PATH="coverage/python_base$hello.coverage" NAME="hello Coverage Results" MODIFIED="1544315616212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/demo01" />
     <SUITE FILE_PATH="coverage/python_base$demo04_print_idcard.coverage" NAME="demo04_print_idcard Coverage Results" MODIFIED="1544316569483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day01" />
     <SUITE FILE_PATH="coverage/python_base$Demo06Case.coverage" NAME="Demo06Case Coverage Results" MODIFIED="1546138811141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day09" />
@@ -101,7 +99,110 @@
     <SUITE FILE_PATH="coverage/python_base$Demo03PrivateMethod.coverage" NAME="Demo03PrivateMethod Coverage Results" MODIFIED="1546139967115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/day10" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/com/day11/factoryMethod/Demo01AbstractFactory.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="11" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="24" />
+              <folding>
+                <element signature="e#8#73#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/day11/factoryMethod/Demo01SimpleFactory.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="81" selection-start-line="81" selection-end-line="85" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/day11/factoryMethod/store/Store.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/day11/factoryMethod/store/BMWCarStore.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/day11/factoryMethod/store/XianDaiCarStore.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#73#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/day11/factoryMethod/factory/BMWCarFactory.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="87">
+              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#52#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/day11/factoryMethod/factory/XianDaiFactory.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/day11/factoryMethod/entity/Ix35.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/day11/factoryMethod/entity/Mingtu.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/day11/factoryMethod/entity/Car.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -127,22 +228,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/com/day07/demo01_variable.py" />
-        <option value="$PROJECT_DIR$/com/day07/demo03_local_global_variable_diff.py" />
-        <option value="$PROJECT_DIR$/com/day07/demo03_global_attention.py" />
-        <option value="$PROJECT_DIR$/com/day07/demo04_global_attention.py" />
-        <option value="$PROJECT_DIR$/com/day07/demo05_local_global_same_name.py" />
-        <option value="$PROJECT_DIR$/com/day07/demo06_card_case_management_function.py" />
-        <option value="$PROJECT_DIR$/com/day07/demo02_global_variable.py" />
-        <option value="$PROJECT_DIR$/com/day07/demo07_global_dictionary_list.py" />
-        <option value="$PROJECT_DIR$/com/day07/demo08_default_variable.py" />
-        <option value="$PROJECT_DIR$/com/day07/demo09_variable_length_argument.py" />
-        <option value="$PROJECT_DIR$/com/day07/demo09_variable_length_argument_02.py" />
-        <option value="$PROJECT_DIR$/com/day07/demo10_variable_length_argument_02.py" />
-        <option value="$PROJECT_DIR$/com/day07/demo11_recursion.py" />
-        <option value="$PROJECT_DIR$/com/day08/demo01_anonymous_function.py" />
-        <option value="$PROJECT_DIR$/com/day08/demo01_anonymous_function_use.py" />
-        <option value="$PROJECT_DIR$/com/day08/demo04_swap_a_b.py" />
         <option value="$PROJECT_DIR$/com/day08/demo03_variable_type.py" />
         <option value="$PROJECT_DIR$/com/day08/demo05_str.py" />
         <option value="$PROJECT_DIR$/com/day08/demo06_file_read_write.py" />
@@ -178,6 +263,22 @@
         <option value="$PROJECT_DIR$/com/day10/Demo12Polymorphous.py" />
         <option value="$PROJECT_DIR$/com/day10/Demo13ClassPropertyObjectProperty.py" />
         <option value="$PROJECT_DIR$/com/day10/Demo14ClassMethodObjectMethod.py" />
+        <option value="$PROJECT_DIR$/com/day12.py" />
+        <option value="$PROJECT_DIR$/com/day11/factoryMethod/Demo01Base.py" />
+        <option value="$PROJECT_DIR$/com/day11/factoryMethod/Demo01SimpleFactory.py" />
+        <option value="$PROJECT_DIR$/com/day11/factoryMethod/entity/Car.py" />
+        <option value="$PROJECT_DIR$/com/day11/factoryMethod/entity/Mini.py" />
+        <option value="$PROJECT_DIR$/com/day11/factoryMethod/entity/Suonata.py" />
+        <option value="$PROJECT_DIR$/com/day11/factoryMethod/entity/SuvX6.py" />
+        <option value="$PROJECT_DIR$/com/day11/factoryMethod/entity/Mingtu.py" />
+        <option value="$PROJECT_DIR$/com/day11/factoryMethod/entity/Ix35.py" />
+        <option value="$PROJECT_DIR$/com/day11/factoryMethod/factory/XianDaiFactory.py" />
+        <option value="$PROJECT_DIR$/com/day11/factoryMethod/factory/BMWCarFactory.py" />
+        <option value="$PROJECT_DIR$/com/day11/factoryMethod/store/store.py" />
+        <option value="$PROJECT_DIR$/com/day11/factoryMethod/store/Store.py" />
+        <option value="$PROJECT_DIR$/com/day11/factoryMethod/store/BMWCarStore.py" />
+        <option value="$PROJECT_DIR$/com/day11/factoryMethod/store/XianDaiCarStore.py" />
+        <option value="$PROJECT_DIR$/com/day11/factoryMethod/Demo01AbstractFactory.py" />
       </list>
     </option>
   </component>
@@ -202,6 +303,35 @@
               <item name="python-base" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="python-base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-base" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="day11" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-base" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="day11" type="462c0819:PsiDirectoryNode" />
+              <item name="factoryMethod" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-base" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="day11" type="462c0819:PsiDirectoryNode" />
+              <item name="factoryMethod" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-base" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="day11" type="462c0819:PsiDirectoryNode" />
+              <item name="factoryMethod" type="462c0819:PsiDirectoryNode" />
+              <item name="store" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -218,11 +348,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\File\2-workspace\python\python-base\com\day11\factoryMethod\store" />
       <recent name="C:\File\2-workspace\python\python-base\com\day10" />
       <recent name="C:\File\2-workspace\python\python-base\com\day09" />
       <recent name="C:\File\2-workspace\python\python-base\com\day08\testFolder" />
       <recent name="C:\File\workspace\python\python-base\com\day05" />
-      <recent name="C:\File\workspace\python\python-base\com\demo01" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -237,8 +367,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Demo14ClassMethodObjectMethod">
-    <configuration name="Demo07_overwrite" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Demo01AbstractFactory">
+    <configuration name="Demo01AbstractFactory" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-base" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -246,12 +376,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/day10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/day11/factoryMethod" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/day10/Demo07_overwrite.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/day11/factoryMethod/Demo01AbstractFactory.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -260,7 +390,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Demo11ManyInheritNotice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Demo01Base" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-base" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -268,34 +398,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/day10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/day11/factoryMethod" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/day10/Demo11ManyInheritNotice.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Demo12Polymorphous" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python-base" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/day10" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/day10/Demo12Polymorphous.py" />
+      <option name="SCRIPT_NAME" value="C:\File\2-workspace\python\python-base\com\day11\factoryMethod\Demo01SimpleFactory.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -348,13 +456,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Store" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-base" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/day11/factoryMethod/store" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/day11/factoryMethod/store/Store.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Demo01AbstractFactory" />
+        <item itemvalue="Python.Store" />
+        <item itemvalue="Python.Demo01Base" />
         <item itemvalue="Python.Demo14ClassMethodObjectMethod" />
         <item itemvalue="Python.Demo13ClassPropertyObjectProperty" />
-        <item itemvalue="Python.Demo12Polymorphous" />
-        <item itemvalue="Python.Demo07_overwrite" />
-        <item itemvalue="Python.Demo11ManyInheritNotice" />
       </list>
     </recent_temporary>
   </component>
@@ -383,7 +513,8 @@
       <workItem from="1545439437095" duration="19890000" />
       <workItem from="1545962517021" duration="602000" />
       <workItem from="1545967397103" duration="2751000" />
-      <workItem from="1546132882459" duration="9218000" />
+      <workItem from="1546132882459" duration="10405000" />
+      <workItem from="1546240484944" duration="3928000" />
     </task>
     <task id="LOCAL-00001" summary="python 第一天学习">
       <created>1544318256314</created>
@@ -469,21 +600,29 @@
       <option name="project" value="LOCAL" />
       <updated>1545487738574</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="day09 day10 类和对象">
+      <created>1546165266015</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1546165266015</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86869000" />
+    <option name="totallyTimeSpent" value="91984000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2934519" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3160873" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27175844" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.44404975" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -515,119 +654,10 @@
     <MESSAGE value="day07  变量" />
     <MESSAGE value="day08 文件" />
     <MESSAGE value="day08 文件的读写" />
-    <option name="LAST_COMMIT_MESSAGE" value="day08 文件的读写" />
+    <MESSAGE value="day09 day10 类和对象" />
+    <option name="LAST_COMMIT_MESSAGE" value="day09 day10 类和对象" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/com/day07/demo08_default_variable.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/day07/demo09_variable_length_argument_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/day08/demo03_variable_type.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" lean-forward="true" selection-end-line="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/day08/demo04_swap_a_b.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="3" lean-forward="true" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/day08/demo05_str.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="45" column="61" lean-forward="true" selection-end-line="97" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/day08/test.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/day08/test[复制].txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/day08/demo06_file_read_write.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Soft/Python/Python37/Lib/typing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="1499" column="15" selection-start-line="1499" selection-start-column="8" selection-end-line="1499" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/day03/demo02_annotation.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/day03/demo03_variable.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" lean-forward="true" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/176013519/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="488" column="40" selection-start-line="488" selection-start-column="32" selection-end-line="488" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/day03/demo01_hello.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/day08/demo01_anonymous_function.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-141">
-          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/day08/demo07_file_copy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/day08/demo02_anonymous_function_use.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="34" column="3" lean-forward="true" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/day08/test[复制2].txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/day08/demo08_file_read_other.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="49" lean-forward="true" selection-end-line="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/com/day08/demo09_big_file_read.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -701,9 +731,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/day10/Demo02.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/com/day10/Demo02.py" />
     <entry file="file://$PROJECT_DIR$/com/day10/Demo01HiddenProperty.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -797,6 +825,122 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="341">
           <caret line="43" column="3" lean-forward="true" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/day12.py" />
+    <entry file="file://$PROJECT_DIR$/../../../python视频/Python基础班资料/01-基础班-第11天{面向对象3、异常、模块}/4-代码/设计4s店/test3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python视频/Python基础班资料/01-基础班-第11天{面向对象3、异常、模块}/4-代码/设计4s店/tset1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python视频/Python基础班资料/01-基础班-第11天{面向对象3、异常、模块}/4-代码/设计4s店/test2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/day11/a">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/day11/factoryMethod/entity/Mini.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/day11/factoryMethod/entity/Suonata.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/day11/factoryMethod/entity/SuvX6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/day11/factoryMethod/entity/Car.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/day11/factoryMethod/entity/Ix35.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/day11/factoryMethod/Demo01SimpleFactory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="81" selection-start-line="81" selection-end-line="85" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/day11/factoryMethod/store/Store.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/day11/factoryMethod/entity/Mingtu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/day11/factoryMethod/factory/BMWCarFactory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/day11/factoryMethod/factory/XianDaiFactory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/day11/factoryMethod/store/BMWCarStore.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/day11/factoryMethod/store/XianDaiCarStore.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/day11/factoryMethod/Demo01AbstractFactory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="11" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="24" />
+          <folding>
+            <element signature="e#8#73#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
